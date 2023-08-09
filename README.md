@@ -15,8 +15,8 @@ Modifying player EV and xMins or using other sources to reflect your own judgmen
 - Install all packages in the Imports section of the notebook
 
 ## Running the solver
-- Download the latest TFF player list from https://www.ffstuff.co.uk/playersTFF202324.php. Save this as "TFF players.csv" in the "data" folder. 
-- In the "scripts" folder run the "playerCopy" script to copy relevant players details to the "prior_player_data.csv" file. 
+- This step is needed if there are new players added to the telgraph game: 
+    Download the latest TFF player list from https://www.ffstuff.co.uk/playersTFF202324.php. Save this as "TFF players.csv" in the "data" folder. 
 - Download FPL Review projections, and save the file in data folder as fplreview.csv (alternatively produce your own set of expected minutes, or omit this step to use defaults)
 - Run import and function definition cells
 - Generate model output using generate_model_output function

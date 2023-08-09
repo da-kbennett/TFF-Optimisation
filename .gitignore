@@ -1,3 +1,6 @@
 
 data/fplreview.csv
 data/skymodel_output.csv
+data/md_map.csv
+*.txt
+notebooks/skyoutput.mps

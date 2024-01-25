@@ -4,3 +4,6 @@ data/skymodel_output.csv
 data/md_map.csv
 *.txt
 notebooks/skyoutput.mps
+data/past_model_outputs/review_xmins_fplgw21.csv
+data/past_model_outputs/skymodel_output_fplgw21.csv
+data/past_model_outputs/md_map_fplgw21.csv
